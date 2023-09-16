@@ -18,7 +18,12 @@ Currently, two official plugins are available:
 
 ## Assets and Files that were pre-made to make the coding workflow a bit simpler
 
-### Google Drive
+### Google Drive- Add files through the Windows 
 - Zipped Public Folder - delete current public folder and paste new folder in root of directory 
-- Zipped Components Folder 
-- Zipped Asssets Folder -delete assets folder and copy and paste the new one  
+
+- Zipped Components Folder - these will just be empty structures that we will fill in as we go along 
+
+- Zipped Assets Folder -delete assets folder and copy and paste the new one
+
+- Delete App.css file
+- Modify App.jsx file

@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "3jsp",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"plyconfig.json": "jsonc"
+		}
+	}
+}
