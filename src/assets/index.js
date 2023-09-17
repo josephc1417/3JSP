@@ -29,8 +29,10 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import JC from "./JC.svg"
 
 export {
+  JC,
   logo,
   backend,
   creator,
