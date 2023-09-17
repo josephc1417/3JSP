@@ -17,12 +17,12 @@ const [toggle, setToggle] = useState(false)
         
         <Link className="flex items-center gap-2" onClick={() => {setActive(""); window.scrollTo(0,0);}}>
           <img src={logo} alt="logo" className='w-9 h-9 object-contain'/>
-          <p className='text-white text-[18px] font-bold cursor-pointer'>Joseph<span className='sm:block hidden'> | Clay</span></p>
+          <p className='text-white text-[18px] font-bold cursor-pointer flex'> Joseph &nbsp; <span className='sm:block hidden'>| &nbsp;Clay</span></p>
         </Link>
         
 
-        {/*Render List dynamically*/}
-        {/*call .map() method on {links} obj*/}
+        {/*Render list dynamically*/}
+        {/*call .map() method on {navlinks} obj*/}
         <ul className='list-none hidden sm:flex flex-rom gap-10'>
           {navLinks.map((link) => {
             return(
